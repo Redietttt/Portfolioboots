@@ -1,0 +1,36 @@
+
+
+    .navbar {
+        padding: 10px;
+    }
+
+    .navbar-brand {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .navbar-nav .nav-link {
+        font-size: 18px;
+    }
+
+   
+
+    .jumbotron img {
+        max-width: 300px;
+        margin-bottom: 20px;
+    }
+
+    .display-4 {
+        font-size: 36px;
+        font-weight: bold;
+    }
+
+    #aboutme .card {
+        padding: 20px;
+    }
+    
+    footer {
+        background-color: #343a40;
+        color: #fff;
+        padding: 20px;
+    }
